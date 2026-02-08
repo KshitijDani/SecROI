@@ -1,6 +1,6 @@
 # SecROI
 
-SecROI is a security scanning workflow that pulls a public GitHub repo, extracts code files, and analyzes them for common vulnerabilities. It generates a timestamped vulnerabilities report, a remediation summary, and renders an interactive UX with severity charts, occurrence counts, and remediation priorities. The report highlights risks by file, summarizes remediation needs, and provides a consolidated bugs list. Use it to quickly assess security posture, triage high‑risk findings, and guide remediation planning with a clean dashboard and actionable insights.
+SecROI is a security scanning workflow that pulls a public GitHub repo, extracts code files, and analyzes them for common vulnerabilities. It generates a timestamped vulnerabilities report, a remediation summary, and renders an interactive UX with severity charts, occurrence counts, and remediation priorities. The report highlights risks by file, summarizes remediation needs, and provides a consolidated bugs list. Use it to quickly assess security posture, triage high‑risk findings, and guide remediation planning with a clean dashboard and actionable insights. Built with Codex
 
 ## Backend Setup
 1. Create a venv and install deps:
