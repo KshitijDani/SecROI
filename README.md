@@ -27,3 +27,12 @@ npm install
 npm run dev
 ```
 Open the URL Vite prints (usually `http://localhost:5173`).
+
+## Enter a Code Repo URL
+<img width="1476" height="384" alt="Screenshot 2026-02-07 at 5 14 54 PM" src="https://github.com/user-attachments/assets/a35c5e6b-0ffa-453d-919a-0abef9b701e2" />
+
+## View Vulnerability Report
+<img width="1494" height="923" alt="Screenshot 2026-02-07 at 5 14 42 PM" src="https://github.com/user-attachments/assets/3fdbb012-aa45-45af-a121-e4f3818b32c6" />
+
+
+
