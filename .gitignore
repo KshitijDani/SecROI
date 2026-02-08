@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+dist/
+build/
+UX/node_modules/
+UX/dist/
+UX/.vite/
+.code_file_vulnerabilities/
+code_file_vulnerabilities/
+code_file_remediation_summary/
+code_files/

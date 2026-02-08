@@ -1,0 +1,21 @@
+{
+  "name": "ux",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-vuln.mjs",
+    "dev": "npm run sync && vite",
+    "build": "npm run sync && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  }
+}

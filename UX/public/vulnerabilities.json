@@ -1,0 +1,102 @@
+[
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/__init__.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/__init__.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/main.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/index.html",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/vite.config.js",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/eslint.config.js",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/App.css",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/index.css",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/main.jsx",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/App.jsx",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/components/LoadingSpinner.jsx",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/pages/ResultsPage.jsx",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/frontend/src/pages/InputPage.jsx",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/routers/hello.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/routers/purpose.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/routers/langgraphAPI.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/routers/scanner.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/graph/transform_data_node.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/graph/graph.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/graph/constants.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/graph/__init__.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/graph/state.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/agents/__init__.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/agents/cyber_agent.py",
+    "findings": []
+  },
+  {
+    "file": "/Users/kshitijdani/Desktop/Ksh_Personal_Projects/secroi/code_files/app/agents/prompts.py",
+    "findings": []
+  }
+]
